@@ -1,4 +1,3 @@
-Live link **https://varshith345.github.io/Code-Fusion/**
 # Code Fusion - Online Code Editor
 
 **Code Fusion** is an online code editor platform built using **HTML**, **CSS**, and **JavaScript**. It allows users to write and execute code in real-time. The platform consists of panels for writing **HTML**, **CSS**, and **JavaScript** code, and includes a dedicated **output panel** to display the result after running the code.
