@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[Click here to view the live demo](https://varshith345.github.io/Code-Fusion/) (Replace `#` with your live link URL)
+[Click here to view the live demo](https://varshith345.github.io/Code-Fusion/) 
 
 ## 📸 Screenshots
 
